@@ -9,17 +9,14 @@ body, html {
     background-size: cover;  
     background-position: center; 
     height: 100vh; 
-    position: relative;
+    
 }
 
 h1 {
-    position: absolute;
-    top: 20px;  
-    width: 100%;
+    
     text-align: center; 
     color: white;
     
     
-    /* Add shadow for better visibility */
-    margin: 0; /* Remove default margin for h1 */
+    
 }
